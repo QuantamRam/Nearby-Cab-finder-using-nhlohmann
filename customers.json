@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": "1",
+        "name": "\"Cab1\"",
+        "latitude": "12.9611159",
+        "longitude": "77.6362214"
+    },
+    {
+        "user_id": "2",
+        "name": "\"Cab2\"",
+        "latitude": "12.9715987",
+        "longitude": "77.5945627"
+    },
+    {
+        "user_id": "3",
+        "name": "\"Cab3\"",
+        "latitude": "12.2958104",
+        "longitude": "76.6393805"
+    },
+    {
+        "user_id": "4",
+        "name": "\"Cab4\"",
+        "latitude": "13.0826802",
+        "longitude": "80.2707184"
+    },
+    {
+        "user_id": "5",
+        "name": "\"Cab5\"",
+        "latitude": "12.9141417",
+        "longitude": "74.8559568"
+    }
+]
